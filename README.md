@@ -5,9 +5,11 @@ I do both backend and frontend testing.
 
 ## 🛠 Technical Stack
 *   Python
-*   Selenium
-*   PostgreSQL
-*   HTML + CSS
+*   Selenium, Pytest
+*   SQL
+*   Postman & Insomnia
+*   Kafka
+*   GitLab CI/CD
 
 <p align='center'>
    📫 My email: <a href='mailto:saintosev@yandex.ru'>saintosev@yandex.ru</a>
