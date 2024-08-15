@@ -3,6 +3,7 @@
 I am a Full-stack QA engineer with 4 years of experience. I do manual testing (functional, integration, regression) and automated testing (Python + Selenium).
 I do both backend and frontend testing.
 
+
 ## 🛠 Technical Stack
 *   Python
 *   Selenium, Pytest
@@ -10,6 +11,7 @@ I do both backend and frontend testing.
 *   Postman & Insomnia
 *   Kafka
 *   GitLab CI/CD
+
 
 <p align='center'>
    📫 My email: <a href='mailto:saintosev@yandex.ru'>saintosev@yandex.ru</a>
