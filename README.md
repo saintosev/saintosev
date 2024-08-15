@@ -1,6 +1,6 @@
 # Hi, I'm Anna 👋
 
-I am a full-stack QA engineer with 4 years of experience.\
+I am a full-stack QA-engineer with 4 years of experience.\
 I do manual testing (functional, integration, regression) and automated testing (Python + Selenium). Both backend and frontend.
 
 <br>
