@@ -22,5 +22,5 @@ I do manual testing (functional, integration, regression) and automated testing 
    🔗 My LinkedIn: <a href='https://linkedin.com/in/anna-tsiplenkova-258054253'>linkedin.com/in/anna-tsiplenkova</a>
 </p>
 <p align='center'>
-   🚀 Or just send me a message on Telegram: <a href="https://t.me/saintosev">t.me/saintosev</a>
+   🚀 Send me a message on Telegram: <a href="https://t.me/saintosev">t.me/saintosev</a>
 </p>
