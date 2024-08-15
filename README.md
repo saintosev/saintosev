@@ -1,23 +1,17 @@
 # Hi, I'm Anna 👋
 
-I'm switching from Internet Marketing to IT. Lately I've been working on projects in Python and Django. In my spare time, I take courses in deep and machine learning.
+I am a Full-stack QA engineer with 4 years of experience. I do manual testing (functional, integration, regression) and automated testing (Python + Selenium).
+I do both backend and frontend testing.
 
 ## 🛠 Technical Stack
 *   Python
-*   Django
-*   Pandas & Seaborn
+*   Selenium
 *   PostgreSQL
-*   HTML, CSS
-*   GitHub/GitLab/Bitbucket
+*   HTML + CSS
 
 <p align='center'>
-   <a href="https://github.com/saintosev/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintosev&layout=compact"/></a>
-</p>
-
-<p align='center'>
-   📫 How to reach me: <a href='mailto:saintosev@yandex.ru'>saintosev@yandex.ru</a>
+   📫 My email: <a href='mailto:saintosev@yandex.ru'>saintosev@yandex.ru</a>
 </p>
 <p align='center'>
-   🚀 Write to me via telegram: <a href="https://t.me/saintosev">t.me/saintosev</a>
+   🚀 But it's better to send me a message on telegram: <a href="https://t.me/saintosev">t.me/saintosev</a>
 </p>
